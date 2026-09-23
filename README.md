@@ -24,7 +24,7 @@ This is one of India's premier defense research organizations, and I was honored
 | ----------------------------- | --------------------------------------------------------------------- |
 | **Internship Organization**   | DRDO – Research Centre Imarat (RCI), Hyderabad                        |
 | **Project**                   | Application-Driven Development for USB to RS-422 Conversion           |
-| **Domain**                    | Embedded Systems / FPGA / Digital Communication                       |
+| **Domain**                    | Embedded Systems / FPGA /                                             |
 | **Primary Platform**          | Xilinx Kintex-7 / KC705                                               |
 | **USB Interface**             | Cypress FX2LP                                                         |
 | **HDL**                       | Verilog                                                               |
